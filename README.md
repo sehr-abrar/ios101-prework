@@ -34,7 +34,7 @@ The following **required** functionality is completed:
    - Easy access to information.
 4. **Google Maps**
     - Real-time traffic updates and route suggestions.
-    - Offline map for areas with no internet
+    - Offline map for areas with no internet.
     - Reviews for different types of businesses.
 
 **App Idea**
