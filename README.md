@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[![YouTube Short](https://img.youtube.com/vi/T_ZbXmOuC2A/hqdefault.jpg)](https://youtube.com/shorts/T_ZbXmOuC2A)
+[![YouTube Short](https://img.youtube.com/vi/d_4qknDQD44/hqdefault.jpg)](https://youtube.com/shorts/d_4qknDQD44?feature=share)
 
 
 ## App Brainstorming (Step 4)
